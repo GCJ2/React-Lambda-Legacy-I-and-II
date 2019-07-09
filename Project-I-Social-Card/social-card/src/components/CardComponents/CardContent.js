@@ -11,12 +11,13 @@ const CardContent = () => {
         React makes it painless to make interactive UI's. Design simple views
         for each state in your application.
       </p>
-      <a className="react-link" href="https://reactjs.org" target="_blank">
+      <a className="react-link"
+        href="https://reactjs.org" target="_blank">
         reactjs.org
       </a>
     </div>
 
-  )
-}
+  );
+};
 
 export default CardContent;
