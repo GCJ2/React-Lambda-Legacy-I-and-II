@@ -1,14 +1,29 @@
 /* All styles for your header Components live here */
 .header-container {
   display: flex;
+  align-items: flex-start;
+
+  /* border: 1px solid black; */
+  max-width: 650px;
+  margin: 0 auto;
 }
 
 .header-title p {
   font-weight: bold;
 }
 
-.thumbnail {
-  border-radius: 50px;
-  width: 25%;
-  height: auto;
+.logo-div {
+  height: 50px;
+  width: 60px;
+}
+
+.lambda-logo {
+  /* border-radius: 50px; */
+  /* width: ; */
+  height: 100%;
+}
+
+.header-div {
+  max-width: 500px;
+  /* border: 1px solid black; */
 }

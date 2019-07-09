@@ -1,7 +1,7 @@
 .card-container {
   display: flex;
   flex-direction: column;
-  margin: 0 50px;
+  margin: 0 60px;
 }
 
 .card-banner img {
